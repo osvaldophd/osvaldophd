@@ -48,8 +48,8 @@
 </div>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AldairAvelino&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldairAvelino&layout=compact&langs_count=7&theme=nord"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=osvaldophd&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldophd&layout=compact&langs_count=7&theme=nord"/>
 </div>
   
   ##
@@ -71,6 +71,6 @@
   <img src="https://img.shields.io/badge/-LinkedIn-%230E76A8?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   
-  ![Snake animation](https://github.com/AldairAvelino/AldairAvelino/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/osvaldophd/osvaldophd/blob/output/github-contribution-grid-snake.svg)
   
 </div>
