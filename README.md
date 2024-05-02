@@ -12,8 +12,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osvaldophd&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldophd&layout=compact&langs_count=7&theme=radical"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=osvaldophd&show_icons=true&theme=radical&bg_color=0d1117&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldophd&layout=compact&langs_count=7&theme=radical&bg_color=0d1117&hide_border=true"/>
 </div>
   
   ##
