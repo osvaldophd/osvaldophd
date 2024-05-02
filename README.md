@@ -1,15 +1,12 @@
-<img align="right" height="480em" src="img/reserva-img/Developer activity-one.gif"/>
-
 <h1 align="center">Hi there 👌, I am Osvaldo Avelino, Fullstack</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=osvaldophd&color=yellow" alt="Profile views" /></p>
 
 <div>
   <p>
-    I am so Enthusiastic about Web Development 💻, IoT Development 🤖 and also for Mobile Development technologies 📱.
+    Some informations
   </p>
   <p>
-    This is my GitHub profile 📝, and here I am going to share all my personal works that are done 💯% or those that are almost done 😅💯.
-    If you want collaborate in one of this works feel free to do that 🎉🆓!
+    Other informations
   </p>
  
 </div>
