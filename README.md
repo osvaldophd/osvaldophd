@@ -12,17 +12,6 @@
     If you want collaborate in one of this works feel free to do that 🎉🆓!
   </p>
  
-  <h3>💻 Other Stacks</h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vsCode" width="27" height="30" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="27" height="30" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="27" height="30" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="27" height="30" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="27" height="30" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="Arduino" width="27" height="30" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry PI" width="27" height="30" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="27" height="30" style="max-width:100%;"></img>
-  <br>
-  <br>
 </div>
 
 <div align="center">
