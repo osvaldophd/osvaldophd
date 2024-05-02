@@ -11,16 +11,7 @@
     This is my GitHub profile 📝, and here I am going to share all my personal works that are done 💯% or those that are almost done 😅💯.
     If you want collaborate in one of this works feel free to do that 🎉🆓!
   </p>
-  
-  <h3>💻 backend Stacks and DB Stacks</h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="28" height="30" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="28" height="30" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="28" height="30" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="28" height="30" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="28" height="30" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="28" height="30" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="28" height="30" style="max-width:100%;"></img>
-
+ 
   <h3>💻 Other Stacks</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vsCode" width="27" height="30" style="max-width:100%;"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="27" height="30" style="max-width:100%;"></img>
