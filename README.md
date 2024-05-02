@@ -1,6 +1,7 @@
 <img align="right" height="480em" src="img/reserva-img/Developer activity-one.gif"/>
+
 <h1 align="center">Hi there 👌, I am Osvaldo Avelino, Fullstack</h1>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=AldairAvelino&color=yellow" alt="Profile views" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=osvaldophd&color=yellow" alt="Profile views" /></p>
 
 <div>
   <p>
@@ -10,20 +11,6 @@
     This is my GitHub profile 📝, and here I am going to share all my personal works that are done 💯% or those that are almost done 😅💯.
     If you want collaborate in one of this works feel free to do that 🎉🆓!
   </p>
-  
-  <h3>💻 Frontend Stacks</h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="25" height="30" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="25" height="30" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="25" height="30" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" height="30" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jQuery" width="25" height="30" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="25" height="30" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React.js" width="25" height="30" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="25" height="30" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="25" height="30" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" alt="Ionic" width="25" height="30" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="25" height="30" style="max-width:100%;"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift iOS" width="25" height="30" style="max-width:100%;"></img>
   
   <h3>💻 backend Stacks and DB Stacks</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="28" height="30" style="max-width:100%;"></img>
