@@ -1,6 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" height="380">
-
-<!-- I am Osvaldo Avelino, Fullstack -->
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=osvaldophd&show_icons=true&theme=radical&bg_color=0d1117&include_all_commits=true&count_private=true&hide_border=true" alt="Osvaldo Avelino" />
@@ -37,22 +35,9 @@ const fullstackDeveloper = {
 ```
 
 <div align="center">
-  <a href="https://www.facebook.com/osvaldoPhD" target="_blank">
-  <img src="https://img.shields.io/badge/-Facebook-%234C68D7?style=for-the-badge&logo=facebook&logoColor=white">
-  </a>
-  
-  <a href="https://www.instagram.com/phdosvaldo/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%238A3AB9?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  
-  <a href = "mailto:phdosvaldoavelino@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-%23DB4A39?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-
-  <a href="https://www.linkedin.com/in/osvaldo-avelino-065a66184/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230E76A8?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
   
   ![Snake animation](https://github.com/osvaldophd/osvaldophd/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8f00ff&height=120&section=footer"/>
