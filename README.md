@@ -1,7 +1,6 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="100%" height="380">
 
 <!-- I am Osvaldo Avelino, Fullstack -->
-<p align="left"><img src="https://komarev.com/ghpvc/?username=osvaldophd&color=yellow" alt="Profile views" /></p>
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=osvaldophd&show_icons=true&theme=radical&bg_color=0d1117&include_all_commits=true&count_private=true&hide_border=true" alt="Osvaldo Avelino" />
