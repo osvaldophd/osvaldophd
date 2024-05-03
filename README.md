@@ -6,9 +6,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=osvaldophd&show_icons=true&theme=radical&bg_color=0d1117&include_all_commits=true&count_private=true&hide_border=true" alt="Osvaldo Avelino" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldophd&layout=compact&langs_count=7&theme=radical&bg_color=0d1117&hide_border=true"/>
 </div>
-  
-  ##
- 
+
 <div align="center">
   <a href="https://www.facebook.com/osvaldoPhD" target="_blank">
   <img src="https://img.shields.io/badge/-Facebook-%234C68D7?style=for-the-badge&logo=facebook&logoColor=white">
