@@ -36,7 +36,7 @@ const fullstackDeveloper = {
 
 <div align="center">
   
-  ![Snake animation](https://github.com/osvaldophd/osvaldophd/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/osvaldophd/osvaldophd/blob/snake/github-contribution-grid-snake.svg)
   
 </div>
 
